@@ -1,0 +1,17 @@
+/Users/qianlihan/levn/workspace/ece650/qianli_yu/project/build/CMakeFiles/install/local.dir
+/Users/qianlihan/levn/workspace/ece650/qianli_yu/project/build/CMakeFiles/install/strip.dir
+/Users/qianlihan/levn/workspace/ece650/qianli_yu/project/build/CMakeFiles/install.dir
+/Users/qianlihan/levn/workspace/ece650/qianli_yu/project/build/CMakeFiles/list_install_components.dir
+/Users/qianlihan/levn/workspace/ece650/qianli_yu/project/build/CMakeFiles/rebuild_cache.dir
+/Users/qianlihan/levn/workspace/ece650/qianli_yu/project/build/CMakeFiles/edit_cache.dir
+/Users/qianlihan/levn/workspace/ece650/qianli_yu/project/build/CMakeFiles/project.dir
+/Users/qianlihan/levn/workspace/ece650/qianli_yu/project/build/minisat/CMakeFiles/install/local.dir
+/Users/qianlihan/levn/workspace/ece650/qianli_yu/project/build/minisat/CMakeFiles/install/strip.dir
+/Users/qianlihan/levn/workspace/ece650/qianli_yu/project/build/minisat/CMakeFiles/install.dir
+/Users/qianlihan/levn/workspace/ece650/qianli_yu/project/build/minisat/CMakeFiles/list_install_components.dir
+/Users/qianlihan/levn/workspace/ece650/qianli_yu/project/build/minisat/CMakeFiles/rebuild_cache.dir
+/Users/qianlihan/levn/workspace/ece650/qianli_yu/project/build/minisat/CMakeFiles/edit_cache.dir
+/Users/qianlihan/levn/workspace/ece650/qianli_yu/project/build/minisat/CMakeFiles/minisat_simp.dir
+/Users/qianlihan/levn/workspace/ece650/qianli_yu/project/build/minisat/CMakeFiles/minisat_core.dir
+/Users/qianlihan/levn/workspace/ece650/qianli_yu/project/build/minisat/CMakeFiles/minisat-lib-shared.dir
+/Users/qianlihan/levn/workspace/ece650/qianli_yu/project/build/minisat/CMakeFiles/minisat-lib-static.dir

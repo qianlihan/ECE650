@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -pthread -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/project.dir/project.cpp.o -o project  minisat/libminisat.a /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk/usr/lib/libz.tbd 

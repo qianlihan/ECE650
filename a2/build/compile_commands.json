@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/ece650/q36han/a2/build",
+  "command": "/usr/bin/c++     -std=c++11 -Wall    -o CMakeFiles/ece650-a2.dir/src/ece650-a2.cpp.o -c /home/ece650/q36han/a2/src/ece650-a2.cpp",
+  "file": "/home/ece650/q36han/a2/src/ece650-a2.cpp"
+}
+]

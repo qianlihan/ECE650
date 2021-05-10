@@ -1,0 +1,18 @@
+---
+# Personal information
+# Enter information for both team members
+# Leave the second entry as is if there is only one person
+# on your team
+-
+  first: Qianli
+  last: Han
+  watiam: q36han
+  student: 20875905
+  email: q36han@uwaterloo.ca
+-
+  first: Yu
+  last: Gao
+  watiam: y454gao
+  student: 20891778
+  email: y454gao@uwaterloo.ca
+...
